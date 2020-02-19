@@ -1,0 +1,9 @@
+{"struc_file": "./Data/webkb.csv",
+    "encoder": [100, 16],
+    "decoder": [100],
+    "batch_size": 256,
+    "experiment_name": "webkb",
+    "num_clusters": 5,
+    "nu" : 0.05,
+    "learning_rate": 1e-3
+}
